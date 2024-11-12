@@ -49,11 +49,9 @@ Welcome to my Kood Sisu Selection Sprint progress! This series of challenges and
 ## Upcoming Modules
 
 ### Algorithms
-- **Start Date:** 13.11.2024, 09:00  
 - Prepare to think and solve like a developer with problem-solving techniques, logical patterns, and algorithm development.
 
 ### Exam 03
-- **Start Date:** 15.11.2024, 12:00  
 - The third exam will challenge my cumulative knowledge from previous modules and test my readiness for advanced topics.
 
 ## Conclusion
